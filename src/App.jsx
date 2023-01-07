@@ -8,9 +8,8 @@ function App() {
 
   return (
     <>    
+    <Header/>    
     <Article/>
-    <Header/>
-    <h1>Meu blog</h1>
     </>
   )
 }
